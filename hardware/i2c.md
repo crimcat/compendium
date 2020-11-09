@@ -46,3 +46,9 @@ I²C использует две двунаправленные линии, по
 Данные шлются пакетами, каждый пакет состоит из девяти бит. 8 данных и 1 бит подтверждения/не подтверждения приема.
 
 ![I2C control request](./_img/i2c_control_request.png)
+
+## Ссылки
+
+* [Интерфейсная шина IIC (I2C), EasyElectronics](http://easyelectronics.ru/interface-bus-iic-i2c.html)
+* [I²C, Wikipedia](https://ru.wikipedia.org/wiki/I%C2%B2C)
+* [Подробное описание интерфейса I2C, RadioHlam](https://radiohlam.ru/i2c/)
